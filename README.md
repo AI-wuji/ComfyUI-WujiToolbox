@@ -8,8 +8,8 @@
 ## Wuji Toolbox
 
 **一句话 / One Sentence:**  
-让ComfyUI工作流变得极简，你只需要一个节点。  
-Make ComfyUI workflow minimal, you only need one node.
+让ComfyUI工作流变得极简，你只需要几个节点。  
+Make ComfyUI workflow minimal, you only need a few nodes.
 
 </div>
 
