@@ -222,7 +222,7 @@ Step 4: 拖入☯️无极加载器 → 选择模型 → 连接☯️无极采�
 ```
 
 **下载地址：**  
-[🚀 立即下载](https://drive.uc.cn/s/ca4a9cc1df7b4)
+[🚀 立即下载](https://drive.uc.cn/s/fb77b6a0cf4b4)
 
 **文件大小：** 1.4 MB  
 **版本：** v2.11
@@ -243,7 +243,7 @@ Step 4: Drag ☯️Wuji Loader → Select model → Connect ☯️Wuji Sampler �
 ```
 
 **Download:**  
-[🚀 Download Now](https://drive.uc.cn/s/ca4a9cc1df7b4)
+[🚀 Download Now](https://drive.uc.cn/s/fb77b6a0cf4b4)
 
 **File Size:** 1.4 MB  
 **Version:** v2.11
