@@ -214,7 +214,7 @@ If this tool helps you, welcome to support us. Your support is my motivation for
 > "您的支持是我最大的动力"
 > "Your support is my greatest motivation"
 
-![微信赞赏码](https://raw.githubusercontent.com/AI-wuji/Wuji-Dev-Ecosystem/main/support.png)
+![微信赞赏码](https://github.com/AI-wuji/ComfyUI-WujiToolbox/blob/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg?raw=true)
 
 ---
 
